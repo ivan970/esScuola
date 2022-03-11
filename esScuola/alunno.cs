@@ -7,7 +7,7 @@ namespace esScuola
 {
     public class alunno
     {
-        public int Property
+        public int restituzioneValori
         {
             get => default;
             set

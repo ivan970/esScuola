@@ -5,11 +5,15 @@ using System.Text;
 
 namespace esScuola
 {
-    public class scuola : alunno
+    public class scuola
     {
-        private int field;
-        private int field1;
-        private int field2;
-        private int field3;
+        private int nome;
+        private int orariGiornalieri;
+        private int indirizzo;
+
+        public void ListAlunni()
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }
