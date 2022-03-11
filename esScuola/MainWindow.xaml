@@ -7,6 +7,18 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <Button Content="" HorizontalAlignment="Left" Margin="574,158,0,0" VerticalAlignment="Top" Height="39" Width="77"/>
+        <ListBox Margin="142,83,317,163"/>
+        <Label Content="clicca per vedere l'alunno&#xD;&#xA;" HorizontalAlignment="Left" Margin="559,99,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.083,0.189" Height="24" Width="154">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.696"/>
+                    <TranslateTransform X="-0.239" Y="0.69"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
 
     </Grid>
 </Window>
