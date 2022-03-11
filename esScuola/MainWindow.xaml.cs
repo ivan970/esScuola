@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.IO;
-using System.Linq;
+
 
 namespace esScuola
 {
@@ -29,9 +29,12 @@ namespace esScuola
 
         private  class Alunno
         {
-            public List<int> Alunni { get; set; } = new List<int>();
+            List<Alunno> elenco = new List<Alunno>();
 
-            
+            elenco.Add(new Alunno("Mario", "FC", 2000));
+		   
+
+
 
 
         }

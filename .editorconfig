@@ -2,3 +2,6 @@
 
 # IDE0055: Correggi formattazione
 dotnet_diagnostic.IDE0055.severity = none
+
+# IDE0040: Aggiungi i modificatori di accessibilità
+dotnet_style_require_accessibility_modifiers = omit_if_default

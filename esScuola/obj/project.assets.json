@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ivan todorov.vasilev\\source\\repos\\esScuola\\esScuola\\esScuola.csproj",
+      "projectUniqueName": "C:\\Users\\ivan todorov.vasilev\\Desktop\\esScuola\\esScuola\\esScuola.csproj",
       "projectName": "esScuola",
-      "projectPath": "C:\\Users\\ivan todorov.vasilev\\source\\repos\\esScuola\\esScuola\\esScuola.csproj",
+      "projectPath": "C:\\Users\\ivan todorov.vasilev\\Desktop\\esScuola\\esScuola\\esScuola.csproj",
       "packagesPath": "C:\\Users\\ivan todorov.vasilev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ivan todorov.vasilev\\source\\repos\\esScuola\\esScuola\\obj\\",
+      "outputPath": "C:\\Users\\ivan todorov.vasilev\\Desktop\\esScuola\\esScuola\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
