@@ -10,6 +10,9 @@ namespace esScuola
         private int nome;
         private int orariGiornalieri;
         private int indirizzo;
+        private int cognome;
+        private int scuola;
+        
 
         public void ListAlunni()
         {
