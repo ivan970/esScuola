@@ -39,6 +39,10 @@ namespace esScuola
 
         }
 
+        private void btn_crea_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 
     internal struct NewStruct
